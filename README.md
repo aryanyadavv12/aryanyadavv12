@@ -1,6 +1,7 @@
-# 💫 About Me:
-I am a Computer Science Student.
-
+# 💫 I'm Aryan Yadav...
+CS Student | Fresher
+Python | Java | Basic MERN
+Learning Backend, DSA & Software Engineering Fundamentals..
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryanyadav_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan1222) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanydv1214@gmail.com) 
