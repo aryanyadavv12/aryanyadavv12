@@ -1,5 +1,5 @@
 # 💫 I'm Aryan Yadav...
-CS Student | Fresher
+CS Student | Fresher \n
 Python | Java | Basic MERN
 Learning Backend, DSA & Software Engineering Fundamentals..
 
