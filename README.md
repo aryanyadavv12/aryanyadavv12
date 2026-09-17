@@ -88,13 +88,7 @@ I also have experience building projects involving:
 
 These projects helped me strengthen my **programming, problem-solving, debugging, database, and analytical skills**, which I continue to apply while developing my cybersecurity expertise.
 
----
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=aryanyadavv12&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanyadavv12&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
